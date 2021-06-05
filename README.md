@@ -52,7 +52,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
 
-
+# view_count : 
 ![ViewCount](https://counter6.stat.ovh/private/freecounterstat.php?c=crrkymnp4bqg4jdf7lc3l64c7znhytgp)
 
 
