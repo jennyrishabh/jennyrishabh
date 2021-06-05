@@ -23,7 +23,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 ---
 
 
-📫 How to reach me: ...
+📫 Reach me through ...
 
 
 **Social Media:**
