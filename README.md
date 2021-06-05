@@ -29,26 +29,26 @@ I am currently pursuing my btech and contribute to open source software and out 
 **Social Media:**
 
 
-[![GitHub](icons/github.png)](https://github.com/jennyrishabh)
-[![Twitter](icons/twitter.png)](https://twitter.com/jennyrishabh)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/jennyrishabh/)
+[![GitHub](display_pic/github.png)](https://github.com/jennyrishabh)
+[![Twitter](display_pic/twitter.png)](https://twitter.com/jennyrishabh)
+[![LinkedIn](display_pic/linkedin.png)](https://www.linkedin.com/in/jennyrishabh/)
 
 **Currently working with:**
 
-<a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" title="Java"><img src="icons/java.jpeg" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" title="Java"><img src="display_pic/java.jpeg" /></a>
+<a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="display_pic/javascript.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="display_pic/mysql.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="display_pic/vscode.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="display_pic/react.png" /></a>
 
 
 **Previously worked with:**
 
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/C.png" /></a>
-<a href="https://spring.io/" title="Spring"><img src="icons/spring.png" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="display_pic/C.png" /></a>
+<a href="https://spring.io/" title="Spring"><img src="display_pic/spring.png" /></a>
 
 
 
