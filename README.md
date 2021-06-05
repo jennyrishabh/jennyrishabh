@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 I have built, and more importantly, helped others build computer programs over the past two - three years .
 
-I am currently pursuing my btech and contribute to open source software and out of my own interest. Wanna know more about me ? Check my website here  [Rishabh Jain](https://jennyrishabh.github.io/2021) if you are interested !
+I am currently pursuing my btech and contribute to open source software and out of my own interest. Wanna know more about me ? Check my website here  [Rishabh Jain][go](https://jennyrishabh.github.io/2021){:target="_blank" rel="noopener"} if you are interested !
 
 ---
 
