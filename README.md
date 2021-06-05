@@ -53,7 +53,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
 
 
-
+![ViewCount](https://counter6.stat.ovh/private/freecounterstat.php?c=crrkymnp4bqg4jdf7lc3l64c7znhytgp)
 
 
 
