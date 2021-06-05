@@ -35,7 +35,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 
 **Currently working with:**
 
-<a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" title="Java"><img src="display_pic/java.jpeg" /></a>
+<a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" title="Java"><img src="display_pic/Java-icon-2.jpeg" /></a>
 <a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="display_pic/javascript.png" /></a>
@@ -47,8 +47,8 @@ I am currently pursuing my btech and contribute to open source software and out 
 **Previously worked with:**
 
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="display_pic/C.png" /></a>
-<a href="https://spring.io/" title="Spring"><img src="display_pic/spring.png" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="display_pic/C-icon-2.png" /></a>
+<a href="https://spring.io/" title="Spring"><img src="display_pic/Spring2.png" /></a>
 
 
 
