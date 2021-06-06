@@ -54,7 +54,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 
 ---
 
-![ViewCount](<img src="https://counter6.stat.ovh/private/freecounterstat.php?c=crrkymnp4bqg4jdf7lc3l64c7znhytgp" border="0" title="free traffic counter" alt="free traffic counter">)
+![ViewCount](https://counter6.stat.ovh/private/freecounterstat.php?c=crrkymnp4bqg4jdf7lc3l64c7znhytgp)
 
 
 
