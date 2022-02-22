@@ -42,7 +42,6 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://www.mysql.com/" title="MySQL"><img src="display_pic/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="display_pic/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="display_pic/react.png" /></a>
-<a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs.png" /></a>
 <a href="https://dart.dev" title="Dart"><img src="display_pic/dart.png" /></a>
 <a href="https://flutter.dev" title="Flutter"><img src="display_pic/flutter.png" /></a>
 
@@ -54,6 +53,9 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
 <a href="https://www.mongodb.com/" title="mongo DB"><img src="display_pic/file_mongo.png" /></a>
+<a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs.png" /></a>
+<a href="https://www.docker.com/" title="docker"><img src="display_pic/file_docker.png" /></a>
+<a href="https://www.typescriptlang.org/" title="typescript"><img src="display_pic/file_typescript.png" /></a>
 
 ---
 
