@@ -42,9 +42,9 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://www.mysql.com/" title="MySQL"><img src="display_pic/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="display_pic/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="display_pic/react.png" /></a>
-<a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs-logo.png" /></a>
-<a href="https://dart.dev" title="Dart"><img src="display_pic/dart-logo.png" /></a>
-<a href="https://flutter.dev" title="Flutter"><img src="display_pic/SDK-Flutter.png" /></a>
+<a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs.png" /></a>
+<a href="https://dart.dev" title="Dart"><img src="display_pic/dart.png" /></a>
+<a href="https://flutter.dev" title="Flutter"><img src="display_pic/flutter.png" /></a>
 
 **Previously worked with:**
 
