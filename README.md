@@ -56,6 +56,9 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs.png" /></a>
 <a href="https://www.docker.com/" title="docker"><img src="display_pic/file_docker.png" /></a>
 <a href="https://www.typescriptlang.org/" title="typescript"><img src="display_pic/file_typescript.png" /></a>
+<a href="https://www.postman.com/" title="postman"><img src="display_pic/postman.png" /></a>
+
+
 
 ---
 
