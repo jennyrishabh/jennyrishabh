@@ -53,7 +53,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://spring.io/" title="Spring"><img src="display_pic/Spring2.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
-<a href="https://www.mongodb.com/" title="mongo DB"><img src="display_pic/MongoDB_Logo_Full.png" /></a>
+<a href="https://www.mongodb.com/" title="mongo DB"><img src="display_pic/file_mongo.png" /></a>
 
 ---
 
