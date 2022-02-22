@@ -42,7 +42,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://www.mysql.com/" title="MySQL"><img src="display_pic/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="display_pic/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="display_pic/react.png" /></a>
-<a href="https://nodejs.org/en/" title="node"><img src="display_pic/nodejs-logo.png" /></a>
+<a href="https://nodejs.org/en/" title="nodeJS"><img src="display_pic/nodejs-logo.png" /></a>
 
 **Previously worked with:**
 
@@ -51,6 +51,7 @@ I am currently pursuing my btech and contribute to open source software and out 
 <a href="https://spring.io/" title="Spring"><img src="display_pic/Spring2.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="display_pic/python.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="display_pic/github.png" /></a>
+<a href="https://www.mongodb.com/" title="mongo DB"><img src="display_pic/MongoDB_Logo_Full.png" /></a>
 
 ---
 
